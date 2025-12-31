@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -199,6 +198,3 @@
             }, 300);
         }
     </script>
-</body>
-</html>
-# Love-liza-2026nyl
